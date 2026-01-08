@@ -1,0 +1,2 @@
+dataclasses>=0.6
+cryptography>=41.0.0
