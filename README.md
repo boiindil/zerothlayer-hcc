@@ -1,5 +1,24 @@
 # ZEROTHLAYER_HCC 🛡️
 
+## ✅ v0.1.1 Update - Now Pip Installable!
+
+**BREAKING:** Module structure reorganized for proper Python packaging.
+
+### Quick Install
+```bash
+pip install git+https://github.com/boiindil/zerothlayer-hcc.git
+```
+
+Or local development:
+```bash
+git clone https://github.com/boiindil/zerothlayer-hcc.git
+cd zerothlayer-hcc
+pip install -e .
+python examples/basic_usage.py
+```
+
+---
+
 **Hardware-Governance for High-Stakes Computing**
 
 Author: Winfried Brueckner (ORCID: 0009-0009-0008-5263)
